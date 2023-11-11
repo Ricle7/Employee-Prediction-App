@@ -16,7 +16,6 @@ desc_temp = """
             #### Data Source
             - https://raw.githubusercontent.com/densaiko/data_science_learning/main/dataset/Human%20Capital.csv
             #### App Content
-            - Exploratory Data Analysis
             - Machine Learning Section
             """
 
